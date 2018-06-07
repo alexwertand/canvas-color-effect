@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 5vh;
+    text-transform: uppercase;
+}
+
+.container {
+    width: 70;
+    margin: 0 auto;
+}
